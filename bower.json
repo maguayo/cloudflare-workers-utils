@@ -1,0 +1,19 @@
+{
+  "name": "cloudflare-workers-utils",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marcos@aguayo.es/cloudflare-workers-utils",
+  "authors": [
+    "Marcos Aguayo <marcosaguayomora@gmail.com>"
+  ],
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
